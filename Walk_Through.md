@@ -11,3 +11,17 @@
 **Step 3;** Creating a Virtual Environment.
 
 ![alt text](Images/Creating_vn.png)
+
+*Git*
+Pull and Push requests; 
+
+![alt text](Images/Git.Push.png)      ![alt text](Images/Git.pull.png)
+
+------
+
+Creating nessasory files, 
+>> mkdir extract         
+>> mkdir transform
+
+>> mkdir load                    
+>> mkdir utils  
